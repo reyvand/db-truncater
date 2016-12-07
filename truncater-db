@@ -1,7 +1,7 @@
 #! /usr/bin/php7.0
 <?php
 	
-	#error_reporting(0);
+	error_reporting(0);
 	class Truncater {
 
 		function __construct() {
