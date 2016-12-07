@@ -8,3 +8,8 @@
   * $ ./truncater-db -check
 * Truncate all table in database
   * $ ./truncater-db -h host -u user -p pass -d database
+* Requirements :
+  * mysqli extension
+
+
+_works well on php7_
