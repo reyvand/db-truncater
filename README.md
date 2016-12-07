@@ -1,9 +1,9 @@
 # db-truncater
 
-[!] Truncater DB v1.1<br>
-[!] Coded by kod0kk - [github.com/reyvand](https://github.com/reyvand/)
+[ ! ] Truncater DB v1.1<br>
+[ ! ] Coded by kod0kk - [github.com/reyvand](https://github.com/reyvand/)
 
-[!] Example<br>
+[ ! ] Example<br>
 * Check available databases
   * $ ./truncater-db -check
 * Truncate all table in database
@@ -12,4 +12,4 @@
   * mysqli extension
 
 
-_works well on php7_
+_*works well on php7_
