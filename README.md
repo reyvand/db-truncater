@@ -1,7 +1,7 @@
 # db-truncater
 
 [!] Truncater DB v1.1<br>
-[!] Coded by [t]0x1c - github.com/reyvand
+[!] Coded by kod0kk - [github.com/reyvand](https://github.com/reyvand/)
 
 [!] Example<br>
 * Check available databases
