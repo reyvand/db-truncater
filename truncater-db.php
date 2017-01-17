@@ -16,7 +16,7 @@
 			echo "[-] invalid options\n[!] usage : php ".basename(__FILE__)." [option] \n[!] try -help for help\n\n";
 		}
 		function help() {
-			echo "[?] Help\n\t -help\t	display this information\n\t -check\t\tsearch for available databases\n\t -h\t	host database server\n\t -u\t	user database server\n\t -p\t	password database server\n\t -d\t	target database\n\n[!] Example\n\t - Check available databases\n\t    $ ./".basename(__FILE__)." -check\n\t - Truncate all table in database\n\t    $ ./".basename(__FILE__)." -h host -u user -p pass -d database\n\t\n";
+			echo "[?] Help\n\t -help\t	display this information\n\t -check\t\tsearch for available databases\n\t -h\t	host database server\n\t -u\t	user database server\n\t -p\t	password database server\n\t -d\t	target database\n\n[!] Example\n\t - Check available databases\n\t    $ ./".basename(__FILE__)." -h host -u user -p password -check\n\t - Truncate all table in database\n\t    $ ./".basename(__FILE__)." -h host -u user -p pass -d database\n\t\n";
 		}
 		function indexParam() {
 			$param = $_SERVER['argv'];
